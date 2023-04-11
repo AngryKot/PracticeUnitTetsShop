@@ -1,0 +1,90 @@
+﻿<Window x:Class="LittleShop.View.AdminPassWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LittleShop.View"
+        mc:Ignorable="d"
+        Title="LittleShop: Admin Login" Height="450" Width="300" MinWidth="300" MinHeight="450">
+ 
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+
+            <!--Заголовок окна-->
+            <Grid Grid.Row="0" Background="RosyBrown">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Column="0" Source="D:\Новая папка\Csharp\LittleShop\LittleShop\Resourses\Иконки\Ava.ico">
+                </Image>
+                <TextBlock Grid.Column="1" Text="Admin root" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Comic Sans MS" FontSize="18">
+                </TextBlock>
+                <Button Grid.Column="2" x:Name="b_Exit" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10" Content="Exit" FontFamily="Comic Sans MS" FontSize="12"   Background="#F19CBB" Click="b_Exit_Click" >
+                </Button>
+            </Grid>
+            <!--Подвал-->
+            <Grid Grid.Row="2" Background="RosyBrown">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" Text="©️Segeda_Nikita" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="Comic Sans MS" FontSize="12">
+                </TextBlock>
+                <TextBlock Grid.Column="1" Text="segeda.nikita2016@yandex.ru" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="Comic Sans MS" FontSize="10">
+                </TextBlock>
+            </Grid>
+            <!--Центральная часть-->
+            <Grid Grid.Row="1" Background="#CDFEF5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.5"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="2" Text="Login" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="14">
+                </TextBlock>
+
+                <TextBox Grid.Row="2" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap" Text="" x:Name="login" VerticalAlignment="Center" Width="200" TextChanged="login_TextChanged"/>
+
+                <TextBlock Grid.Row="3" Text="Password" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="14">
+                </TextBlock>
+                
+                <PasswordBox  Grid.Row="3" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="200" x:Name="password" />
+
+
+                <Button  Grid.Row="4" x:Name="b_Login" Click="b_LogIn_Click" >
+
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Log In" VerticalAlignment="Center" Margin="0,0,0,0"/>
+                        </StackPanel>
+                    </Button.Content>
+
+                </Button>
+                <!--Button Content="Catalog" HorizontalAlignment="Stretch" Margin ="40,20" Grid.Row="2" VerticalAlignment="Stretch" Name="b_Catalog"  Background="#FFCBDB" Click="b_Catalog_Click"> 
+                </Button>-->
+
+                <!--<Button Content="Make an order" HorizontalAlignment="Stretch" Margin ="40,20" Grid.Row="3" VerticalAlignment="Stretch" Name="b_Order"   Background="#FFCBDB" Click="b_Order_Click" >
+            </Button>-->
+
+                <!--<Button Content="About us" HorizontalAlignment="Stretch" Margin ="40,20" Grid.Row="4" VerticalAlignment="Stretch" Name="b_About"  Background="#FFCBDB" Click="b_About_Click" >
+                    </Button>-->
+
+            </Grid>
+            <Grid/>
+
+        </Grid>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,152 @@
+D:\Новая папка\Csharp\LittleShop\LittleShop\bin\Debug\LittleShop.exe.config
+D:\Новая папка\Csharp\LittleShop\LittleShop\bin\Debug\LittleShop.exe
+D:\Новая папка\Csharp\LittleShop\LittleShop\bin\Debug\LittleShop.pdb
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.AssemblyReference.cache
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.SuggestedBindingRedirects.cache
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\MainWindow.g.cs
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\App.g.cs
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop_MarkupCompile.cache
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop_MarkupCompile.lref
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\MainWindow.baml
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop.g.resources
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop.Properties.Resources.resources
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.GenerateResource.cache
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.CoreCompileInputs.cache
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop.exe
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop.pdb
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\App.baml
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\View\MakeOrderWindows.g.cs
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\View\MakeOrderWindows.baml
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\View\ShopCartWindow.g.cs
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\View\ShopCartWindow.baml
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\View\AdminPassWindow.g.cs
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\View\PricesWindow.g.cs
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\View\AdminPassWindow.baml
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\View\PricesWindow.baml
+D:\Новая папка\Csharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.ResolveComReference.cache
+H:\Sharp\LittleShop\LittleShop\bin\Debug\LittleShop.exe.config
+H:\Sharp\LittleShop\LittleShop\bin\Debug\LittleShop.exe
+H:\Sharp\LittleShop\LittleShop\bin\Debug\LittleShop.pdb
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.AssemblyReference.cache
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.SuggestedBindingRedirects.cache
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.ResolveComReference.cache
+H:\Sharp\LittleShop\LittleShop\obj\Debug\MainWindow.g.cs
+H:\Sharp\LittleShop\LittleShop\obj\Debug\View\AdminPassWindow.g.cs
+H:\Sharp\LittleShop\LittleShop\obj\Debug\View\MakeOrderWindows.g.cs
+H:\Sharp\LittleShop\LittleShop\obj\Debug\View\PricesWindow.g.cs
+H:\Sharp\LittleShop\LittleShop\obj\Debug\View\ShopCartWindow.g.cs
+H:\Sharp\LittleShop\LittleShop\obj\Debug\App.g.cs
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop_MarkupCompile.cache
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop_MarkupCompile.lref
+H:\Sharp\LittleShop\LittleShop\obj\Debug\App.baml
+H:\Sharp\LittleShop\LittleShop\obj\Debug\MainWindow.baml
+H:\Sharp\LittleShop\LittleShop\obj\Debug\View\AdminPassWindow.baml
+H:\Sharp\LittleShop\LittleShop\obj\Debug\View\MakeOrderWindows.baml
+H:\Sharp\LittleShop\LittleShop\obj\Debug\View\PricesWindow.baml
+H:\Sharp\LittleShop\LittleShop\obj\Debug\View\ShopCartWindow.baml
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.g.resources
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.Properties.Resources.resources
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.GenerateResource.cache
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.CoreCompileInputs.cache
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.exe
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.pdb
+H:\Sharp\LittleShop\LittleShop\bin\Debug\Microsoft.Xaml.Behaviors.dll
+H:\Sharp\LittleShop\LittleShop\bin\Debug\Prism.dll
+H:\Sharp\LittleShop\LittleShop\bin\Debug\Prism.Wpf.dll
+H:\Sharp\LittleShop\LittleShop\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+H:\Sharp\LittleShop\LittleShop\bin\Debug\Microsoft.Xaml.Behaviors.xml
+H:\Sharp\LittleShop\LittleShop\bin\Debug\Prism.pdb
+H:\Sharp\LittleShop\LittleShop\bin\Debug\Prism.xml
+H:\Sharp\LittleShop\LittleShop\bin\Debug\Prism.Wpf.pdb
+H:\Sharp\LittleShop\LittleShop\bin\Debug\Prism.Wpf.xml
+H:\Sharp\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.CopyComplete
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.AssemblyReference.cache
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.ResolveComReference.cache
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\MainWindow.g.cs
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\View\AdminPassWindow.g.cs
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\View\MakeOrderWindows.g.cs
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\View\PricesWindow.g.cs
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\View\ShopCartWindow.g.cs
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\App.g.cs
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop_MarkupCompile.cache
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop_MarkupCompile.lref
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\LittleShop.exe.config
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\LittleShop.exe
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\LittleShop.pdb
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\Prism.dll
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\Prism.Wpf.dll
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\Prism.pdb
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\Prism.xml
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\Prism.Wpf.pdb
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\bin\Debug\Prism.Wpf.xml
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\App.baml
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\MainWindow.baml
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\View\AdminPassWindow.baml
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\View\MakeOrderWindows.baml
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\View\PricesWindow.baml
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\View\ShopCartWindow.baml
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.g.resources
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.Properties.Resources.resources
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.GenerateResource.cache
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.CoreCompileInputs.cache
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.CopyComplete
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.exe
+C:\Users\zerqw\source\repos\LittleShop\LittleShop\obj\Debug\LittleShop.pdb
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.AssemblyReference.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.ResolveComReference.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\MainWindow.g.cs
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\View\AdminPassWindow.g.cs
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\View\MakeOrderWindows.g.cs
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\View\PricesWindow.g.cs
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\View\ShopCartWindow.g.cs
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\App.g.cs
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop_Content.g.cs
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop_MarkupCompile.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop_MarkupCompile.lref
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.exe
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.pdb
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\LittleShop.exe.config
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\LittleShop.exe
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\LittleShop.pdb
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\PresentationFramework.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\App.baml
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\MainWindow.baml
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\View\AdminPassWindow.baml
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\View\MakeOrderWindows.baml
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\View\PricesWindow.baml
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\View\ShopCartWindow.baml
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.g.resources
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.Properties.Resources.resources
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.GenerateResource.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.CoreCompileInputs.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\LittleShop\LittleShop\obj\Debug\LittleShop.csproj.CopyComplete
