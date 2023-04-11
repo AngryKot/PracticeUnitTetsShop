@@ -16,7 +16,7 @@ namespace UnitTestProject
     {
 
         [TestMethod]
-        public void PositiveTest_Login() //проверка введенного верного пароля
+        public void PositiveTest_Login() //проверка ввода пароля (доступ)
         {
             //arrange
             var authorization = new AdminPassWindow();
@@ -42,7 +42,7 @@ namespace UnitTestProject
         }
 
         [TestMethod]
-        public void NegativeTest_Login() //проверка введенного неверного пароля
+        public void NegativeTest_Login() //проверка ввода пароля (без доступа)
         {
             //arrange
             var authorization = new AdminPassWindow();
@@ -62,9 +62,9 @@ namespace UnitTestProject
             Assert.IsFalse(App.Login == tbLogin.Text && App.Password == tbPassword.Password, "Введены неверные данные.");
         }
 
-        //Открытие окна PriceList по кнопке с главного окна
+        //Открытие окна PriceList с главного окна
         [TestMethod]
-        public void PositiveTest_OpenPriceList()
+        public void PositiveTest_GotoPriceList()
         {
             //Arrange
             var main = new MainWindow();
@@ -78,8 +78,9 @@ namespace UnitTestProject
             Assert.IsTrue(button == main.FindName("b_Catalog"));
         }
 
+        //Получение суммы на карте
         [TestMethod]
-        public void PositiveTest_GetSumCard_MainWindow() //получение суммы на карте с главного окна
+        public void PositiveTest_GetSumCard_MainWindow() 
         {
 
             //Arrange
@@ -96,11 +97,11 @@ namespace UnitTestProject
 
         }
 
-        
 
 
+        //Окрытие окна оформления заказа
         [TestMethod]
-        public void PositiveTest_GotoMakeOrderWindow() //отображение окна оформления заказа
+        public void PositiveTest_GotoMakeOrderWindow() 
         {
             //Arrange
             var main = new MainWindow();
@@ -114,8 +115,9 @@ namespace UnitTestProject
             Assert.IsTrue(button == main.FindName("b_Order"));
         }
 
+        //Открытие корзины от окна заказа
         [TestMethod]
-        public void PositiveTest_GotoCart_CreateOrder() //отображение окна авторизации
+        public void PositiveTest_GotoCart_CreateOrder() 
         {
             //Arrange
             var main = new MainWindow();
@@ -130,9 +132,9 @@ namespace UnitTestProject
         }
 
 
-
+        //открытие окна администратора
         [TestMethod]
-        public void PositiveTest_GotoAuthorization_MainWindow() //отображение окна корзины
+        public void PositiveTest_GotoAuthorization()
         {
             //Arrange
             var main = new MainWindow();
